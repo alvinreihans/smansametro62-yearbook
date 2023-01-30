@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/smansametro62-yearbook/static/css/main.e5eea754.css",
-    "main.js": "/smansametro62-yearbook/static/js/main.6b9989ef.js",
+    "main.js": "/smansametro62-yearbook/static/js/main.2d27c27b.js",
     "static/media/002-sandblasting.png": "/smansametro62-yearbook/static/media/002-sandblasting.bfa6f89421b519499596.png",
     "static/media/008-cover-book.png": "/smansametro62-yearbook/static/media/008-cover-book.f52e84ac92ff908688cd.png",
     "static/media/003-granulated-loom.png": "/smansametro62-yearbook/static/media/003-granulated-loom.7dc7c423ea1c060457c0.png",
     "index.html": "/smansametro62-yearbook/index.html",
     "main.e5eea754.css.map": "/smansametro62-yearbook/static/css/main.e5eea754.css.map",
-    "main.6b9989ef.js.map": "/smansametro62-yearbook/static/js/main.6b9989ef.js.map"
+    "main.2d27c27b.js.map": "/smansametro62-yearbook/static/js/main.2d27c27b.js.map"
   },
   "entrypoints": [
     "static/css/main.e5eea754.css",
-    "static/js/main.6b9989ef.js"
+    "static/js/main.2d27c27b.js"
   ]
 }
